@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+supervision==0.3.0
+ultralytics
+fer
+tensorflow
+torch
+typing-extensions==4.6.1
+colorama
